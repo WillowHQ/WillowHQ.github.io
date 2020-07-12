@@ -10,6 +10,8 @@ So I set this up, on a rainy Saturday afternoon, to solve both of those problems
 
 The big idea here is that myself or anyone else that wants to, sets up an initial app, and lays out some key features they want that app to have. Then using the issue tracker, we ask for submissions, and offer guidance in helping others figure out how to solve it. Submissions are made using a Pull Request, and that is how we vet and mentor people on the code they have writen. I will also of course discuss how to solve Issues in the Issue tracker for the project. The first such repo is [RetroBoard](https://github.com/WillowHQ/retro_v1) which is a project to make a better retro board. 
 
+Please follow the following [GitFlow](https://guides.github.com/introduction/flow/) to contribute to the retro project.
+
 ### What is a Retro ? 
 
 Glad you asked ! A retro is part of the agile software development process, where the team comes together to discuss things that went well, and things they could improve for the next Sprint ( a one or two week period of work). When this process is invigilated remotely, companies use a Board to add comments and vote on them, then they take those and turn them into actionable next steps. 
